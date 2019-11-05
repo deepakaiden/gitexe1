@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+making changes to file1.txt for hotfix_branch and committing iT
+=======
 Hello
 making changes to file1.txt to hotfix-branch
 
 
+>>>>>>> future_branch1
